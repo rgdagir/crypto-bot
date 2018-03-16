@@ -1,0 +1,6 @@
+TODO LIST:
+
+1) Set up database to compare current reading with last call + other feature
+2) Run it on GCP
+3) IMprove analysis of edge cases and the parsing of user messages
+
